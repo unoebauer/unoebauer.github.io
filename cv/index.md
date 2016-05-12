@@ -18,10 +18,6 @@ permalink: /cv/
    Space Telescope Science Institute, Baltimore  
    "The geometry and ionization structure of the mass outflow from eclipsing cataclysmic variables"
 
-[//]: # (### Collaborations)
-[//]: # (  * part of the TransRegio [TR33][tr33] - "The Dark Universe" of the German Research Foundation)
-[//]: # (  * member of the core development team of the open-source radiative transfer code [TARDIS][tardis])
-
 ### Education
 
   * __Diploma Thesis:__ _2010_  
