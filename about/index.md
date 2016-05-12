@@ -59,5 +59,5 @@ Email: unoebauer [at] mpa-garching.mpg.de
 [tardis]: https://github.com/tardis-sn/tardis
 [sergei]: http://dau.itep.ru/sn/member/sb
 [knox]: http://www.stsci.edu/~long/
-[myres]: http://www.mpa-garching.mpg.de/~ulnoe/webpage/
-[mypub]: {{< relref "publications.md" >}}
+[myres]: {{ site.url }}
+[mypub]: {{ site.url }}/publications
