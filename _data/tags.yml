@@ -11,17 +11,37 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
-  name: Hyde
-  image: /hydejack/public/img/hyde.jpg
-  color: '#949667'
+# hyde:
+#   name: Hyde
+#   image: /hydejack/public/img/hyde.jpg
+#   color: '#949667'
+#   description: >
+#     Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
+#     It’s based on Poole, the Jekyll butler.
+# 
+# jekyll:
+#   name: Jekyll
+#   image: /hydejack/public/img/jekyll.jpg
+#   color: '#949667'
+#   description: >
+#     Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+#
+mcrh:
+  name: MCRH
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    Monte Carlo Radiation Hydrodynamics
 
-jekyll:
-  name: Jekyll
-  image: /hydejack/public/img/jekyll.jpg
-  color: '#949667'
+publications:
+  name: Publications
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    Selected Papers
+
+winds:
+  name: Momentum-driven Winds
+  description: >
+    Mass outflows from accretion disks and hot stars
+
+tardis:
+  name: TARDIS
+  description: >
+    Open-source Monte Carlo radiative transfer code for supernovae
