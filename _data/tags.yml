@@ -45,3 +45,8 @@ tardis:
   name: TARDIS
   description: >
     Open-source Monte Carlo radiative transfer code for supernovae
+
+supernova:
+  name: Supernova Research
+  description: >
+    Research Activities revolving around Supernovae, in particular Type Ia explosions
