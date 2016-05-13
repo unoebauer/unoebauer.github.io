@@ -23,6 +23,10 @@ permalink: /publications/
 
 ### Peer-reviewed co-author publications
 
+  * _The supernova impostor PSN J09132750+7627410 and its progenitor_  
+    Tartaglia, L., Elias-Rosa, N., Pastorello, A., Benetti, S., Taubenberger, S., Cappellaro, E., Cortini, G., Granata, V., Ishida, E. E. O., Morales-Garoffolo, A., __Noebauer, U. M.__, Ochner, P., Tomasella, L., Zaggia, S.  
+    Accepted for publication on Astrophysical Journal Letters
+    ([ads link][tartaglia2016ads])
   * _Massive stars exploding in a He-rich circumstellar medium - VIII. PSN J07285387+3349106, a highly reddened supernova Ibn_  
     Pastorello, A., Tartaglia, L., Elias-Rosa, N., Morales-Garoffolo, A., Terreran, G., Taubenberger, S., __Noebauer, U. M.__, Benetti, S., Cappellaro, E., Ciabattari, F., Dennefeld, M., Dimai, A., Ishida, E. E. O., Harutyunyan, A., Leonini, S., Ochner, P., Sollerman, J., Taddia, F., Zaggia, S.  
     Monthly Notices of the Royal Astronomical Society, Volume 454, Issue 4, pp. 4293-4303  
@@ -95,3 +99,4 @@ permalink: /publications/
 [ewass2015]: http://eas.unige.ch/EWASS2015/session.jsp?id=Sp17
 [garching2012]: http://www.mpa-garching.mpg.de/sn2012/
 [agmeeting2014]: http://www.astro.physik.uni-potsdam.de/~htodt/ag2014/
+[tartaglia2016ads]: https://ui.adsabs.harvard.edu/#abs/2016arXiv160404628T/abstract
