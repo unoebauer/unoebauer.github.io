@@ -6,9 +6,6 @@ categories: jekyll update
 tag: [publications, mcrh, winds]
 ---
 
-
-- - -
-
 An important step in the development of the Monte Carlo Radiation
 Hydrodynamical approach MCRH has been completed. Having demonstrated the basic
 operation of this method and an application to Type Ia supernova ejecta in a

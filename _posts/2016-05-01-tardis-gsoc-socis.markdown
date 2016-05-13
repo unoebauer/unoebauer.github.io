@@ -6,8 +6,6 @@ categories: jekyll update
 tag: [tardis]
 ---
 
-- - - 
-
 The TARDIS collaboration has been selected as a mentoring organization for the
 "Google Summer of Code 2016" program and for ESA's counterpart "Summer of Code
 in Space 2016".
