@@ -3,6 +3,7 @@ layout: post
 title:  "Monte Carlo Radiation Hydrodynamics: Application to Stellar Winds (MNRAS paper)"
 date:   2015-11-01 08:32:00 +0100
 categories: jekyll update
+tag: [publications, mcrh, winds]
 ---
 
 
@@ -11,7 +12,7 @@ categories: jekyll update
 An important step in the development of the Monte Carlo Radiation
 Hydrodynamical approach MCRH has been completed. Having demonstrated the basic
 operation of this method and an application to Type Ia supernova ejecta in a
-first paper in xxx, we have now successfully used MCRH in the context of
+[first paper][Noebauer2012], we have now successfully used MCRH in the context of
 momentum-driven mass outflows from hot stars.
 
 In particular, we demonstrated the utility of a Monte Carlo-based dynamical
@@ -25,4 +26,5 @@ summarized in a [MNRAS paper][Noebauer2015].
 
 [CAK]: http://adsabs.harvard.edu/abs/1975ApJ...195..157C
 [Mueller2008]: http://adsabs.harvard.edu/abs/2008A&A...492..493M
+[Noebauer2012]: http://adsabs.harvard.edu/abs/2012MNRAS.425.1430N
 [Noebauer2015]: http://adsabs.harvard.edu/abs/2015MNRAS.453.3120N
