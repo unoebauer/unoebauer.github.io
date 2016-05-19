@@ -3,14 +3,12 @@ layout: post
 title:  "Result of the eclipsing nova-like variables study: (ApJ paper)"
 date:   2010-06-30 08:32:00 +0100
 categories: jekyll update
+tag: [winds]
 ---
 
-### "The Geometry and Ionization Structure of the wind in the eclipsing nova-like variables RW Tri and UX UMa"
-
-This paper, accepted for publication in the Astrophysical Journal,
-summarizes the results of the
-[research project performed at StScI](stsci.html) on modelling the
-mass outflow of two nova-like variables:
+Concluding the research project on modelling the mass outflows of two nova-like
+variables, which I have carried out at the StScI with Knox Long, we published
+our results in a [paper][noebauer2010ads] on ApJ.
 
 The presence of mass outflow from accretion disks in a wide range of
 astrophysical systems implies an inherent connection between these two
@@ -28,15 +26,8 @@ similar ion distributions and line forming regions. With mass loss rates in the
 range of 6% to 8% of the accretion rate, the radiation force should be
 dynamically important for driving the wind. However, additional mechanisms,
 most plausibly magnetic phenomena, are necessary to explain these mass loss
-rates, which are too high for purely line-driven outflows. The entire paper can
-be found on [ads][noebauer2010ads].
+rates, which are too high for purely line-driven outflows.
 
 - - -
 
-[back](research.html)
-
 [noebauer2010ads]: http://adsabs.harvard.edu/abs/2010ApJ...719.1932N
-
-
-
-
