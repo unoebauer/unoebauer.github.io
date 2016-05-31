@@ -8,12 +8,12 @@ permalink: /publications/
 
   * _Self-consistent modelling of line-driven hot-star winds with Monte Carlo radiation hydrodynamics_  
     __Noebauer, U. M.__, Sim, S. A.  
-    Monthly Notices of the Royal Astronomical Society, Volume 453, Issue 3, pp. 3120-3134  
+    Monthly Notices of the Royal Astronomical Society, Volume 453, Issue 3, pp. 3120-3134 (2015)  
     ([ads link][noebauer2015ads], [journal link][noebauer2015journal])
 
   * _Monte Carlo radiation hydrodynamics: methods, tests and application to Type Ia supernova ejecta_  
     __Noebauer, U. M.__, Sim, S. A., Kromer, M., Röpke, F. K., Hillebrandt, W.  
-    Monthly Notices of the Royal Astronomical Society, Volume 425, Issue 2, pp. 1430-1444.  
+    Monthly Notices of the Royal Astronomical Society, Volume 425, Issue 2, pp. 1430-1444 (2012)  
     ([ads link][noebauer2012ads], [journal link][noebauer2012journal])
 
   * _The Geometry and Ionization Structure of the Wind in the Eclipsing Nova-like Variables RW Tri and UX UMa_  
@@ -25,15 +25,15 @@ permalink: /publications/
 
   * _The supernova impostor PSN J09132750+7627410 and its progenitor_  
     Tartaglia, L., Elias-Rosa, N., Pastorello, A., Benetti, S., Taubenberger, S., Cappellaro, E., Cortini, G., Granata, V., Ishida, E. E. O., Morales-Garoffolo, A., __Noebauer, U. M.__, Ochner, P., Tomasella, L., Zaggia, S.  
-    Accepted for publication on Astrophysical Journal Letters
-    ([ads link][tartaglia2016ads])
+    The Astrophysical Journal Letters, Volume 823, Issue 2, L23 (2016)  
+    ([ads link][tartaglia2016ads], [journal link][tartaglia2016journal])  
   * _Massive stars exploding in a He-rich circumstellar medium - VIII. PSN J07285387+3349106, a highly reddened supernova Ibn_  
     Pastorello, A., Tartaglia, L., Elias-Rosa, N., Morales-Garoffolo, A., Terreran, G., Taubenberger, S., __Noebauer, U. M.__, Benetti, S., Cappellaro, E., Ciabattari, F., Dennefeld, M., Dimai, A., Ishida, E. E. O., Harutyunyan, A., Leonini, S., Ochner, P., Sollerman, J., Taddia, F., Zaggia, S.  
-    Monthly Notices of the Royal Astronomical Society, Volume 454, Issue 4, pp. 4293-4303  
+    Monthly Notices of the Royal Astronomical Society, Volume 454, Issue 4, pp. 4293-4303 (2015)   
     ([ads link][pastorello2015bads], [journal link][pastorello2015bjournal])  
   * _Massive stars exploding in a He-rich circumstellar medium - VII. The metamorphosis of ASASSN-15ed from a narrow line Type Ibn to a normal Type Ib Supernova_  
     Pastorello, A., Prieto, J. L., Elias-Rosa, N., Bersier, D., Hosseinzadeh, G., Morales-Garoffolo, A., __Noebauer, U. M.__, Taubenberger, S., Tomasella, L., Kochanek, C. S., Falco, E., Basu, U., Beacom, J. F., Benetti, S., Brimacombe, J., Cappellaro, E., Danilet, A. B., Dong, Subo, Fernandez, J. M., Goss, N., Granata, V., Harutyunyan, A., Holoien, T. W.-S., Ishida, E. E. O., Kiyota, S., Krannich, G., Nicholls, B., Ochner, P., Pojmański, G., Shappee, B. J., Simonian, G. V., Stanek, K. Z., Starrfield, S., Szczygieł, D., Tartaglia, L., Terreran, G., Thompson, T. A., Turatto, M., Wagner, R. M., Wiethoff, W. S., Wilber, A., Woźniak, P. R.  
-    Monthly Notices of the Royal Astronomical Society, Volume 453, Issue 4, pp. 3649-3661  
+    Monthly Notices of the Royal Astronomical Society, Volume 453, Issue 4, pp. 3649-3661 (2015)  
     ([ads link][pastorello2015aads], [journal link][pastorello2015ajournal])  
 
 
@@ -99,4 +99,5 @@ permalink: /publications/
 [ewass2015]: http://eas.unige.ch/EWASS2015/session.jsp?id=Sp17
 [garching2012]: http://www.mpa-garching.mpg.de/sn2012/
 [agmeeting2014]: http://www.astro.physik.uni-potsdam.de/~htodt/ag2014/
-[tartaglia2016ads]: https://ui.adsabs.harvard.edu/#abs/2016arXiv160404628T/abstract
+[tartaglia2016ads]: http://adsabs.harvard.edu/abs/2016ApJ...823L..23T
+[tartaglia2016journal]:  http://iopscience.iop.org/article/10.3847/2041-8205/823/2/L23/meta;jsessionid=E769CA023BB291D303AAC7143F5694E5.c2.iopscience.cld.iop.org 
