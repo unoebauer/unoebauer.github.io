@@ -21,12 +21,15 @@
 <aside id="_sidebar" class="sidebar" {% if image %}style="background-image:url('{{ image }}')"{% endif %}>
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}/about">{{ site.title }}</a></h1>
       {{ site.description | markdownify }}
     </div>
 
     <nav class="sidebar-nav">
       <ul>
+        <li>
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/">News</a>
+        </li>
         {% for tag_key in site.sidebar_tags %}
           {% assign tag = site.data.tags[tag_key] %}
           <li>
