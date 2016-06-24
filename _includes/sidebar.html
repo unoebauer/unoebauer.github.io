@@ -28,7 +28,19 @@
     <nav class="sidebar-nav">
       <ul>
         <li>
-          <a class="sidebar-nav-item" href="{{ site.baseurl }}/">News</a>
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/about">About</a>
+        </li>
+        <li>
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Research</a>
+        </li>
+        <li>
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/publications">Publications</a>
+        </li>
+        <li>
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/cv">CV</a>
+        </li>
+        <li>
+          <a class="sidebar-nav-item" href="{{ site.baseurl }}/photography">Photography</a>
         </li>
         {% for tag_key in site.sidebar_tags %}
           {% assign tag = site.data.tags[tag_key] %}
@@ -37,6 +49,9 @@
           </li>
         {% endfor %}
 
+        {% comment %}
+        UMN - activate the following section to enable auto-generation of the sidebar.
+        You'll lose control over the ordering of the sidebar elements.
         {% comment %}
           The code below dynamically generates a sidebar nav of pages with
           `layout: page` in the front-matter. See readme for usage.
@@ -52,6 +67,7 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+        {% endcomment %}
       </ul>
     </nav>
 
