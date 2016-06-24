@@ -37,9 +37,20 @@ permalink: /publications/
     ([ads link][pastorello2015aads], [journal link][pastorello2015ajournal])  
 
 
-## Conference Talks and Posters
+## Talks and Posters
 
-### Talks
+### Seminar Talks
+
+  * _SNe Ia within dense C/O envelopes: Potential explanation for superluminous SNe Ia_  
+    __Seminar Talk__, June 16, 2016, Oskar Klein Centre, Stockholm  
+
+  * _Radiation Hydrodynamical modelling in astrophysical outflows with Monte Carlo techniques_  
+    __Seminar Talk__, February 9, 2014, Max Planck Institute for Astrophysics, Garching  
+
+  * _Monte Carlo Radiation Hydrodynamics: Understanding Interacting Supernovae_  
+    __Seminar Talk__, July 13, 2012, Mount Stromlo Observatory, Canberra  
+
+### Conference Talks
 
   * _SNe Ia within dense C/O envelopes: A potential explanation for superluminous SNe Ia_  
     @__"18th Workshop on Nuclear Astrophysics"__, March 14 - 18, 2016, Ringberg Castle  
@@ -68,19 +79,12 @@ permalink: /publications/
   * Contributions to the  
     __9th, 8th, 6th, 4th, 3rd and 1st Wuerzburg Workshop on Supernovae and related topics__, 2011 - 2015, Universität Würzburg
 
-### Posters
+### Conference Posters
 
   * _Monte Carlo Radiation Hydrodynamics: Understanding Interacting Supernovae_  
     @ __"Supernovae Illuminating the Universe: from Individuals to Populations"__, MPA/ESO/MPE/Excellence Cluster Universe Conference, September 10 - 14, 2012, Garching  
     ([conference page][garching2012])
 
-## Seminar Talks
-
-  * _Radiation Hydrodynamical modelling in astrophysical outflows with Monte Carlo techniques_  
-    __Seminar Talk__, February 9, 2014, Max Planck Institute for Astrophysics  
-
-  * _Monte Carlo Radiation Hydrodynamics: Understanding Interacting Supernovae_  
-    __Seminar Talk__, July 13, 2012, Mount Stromlo Observatory  
 
 [noebauer2010ads]: http://adsabs.harvard.edu/abs/2010ApJ...719.1932N
 [noebauer2010journal]: http://iopscience.iop.org/0004-637X/719/2/1932/
