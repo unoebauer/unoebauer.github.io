@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for `Super-Chandrasekhar' explosions? (MNRAS paper)"
+date:   2016-09-14 16:00:00 +0100
+categories: jekyll update
+tag: [publications, stella, supernova]
+---
+
+The most luminous thermonuclear supernovae (SNe) still constitute puzzles.
+Reconciling their intense luminosities with the standard theoretical
+interpretation for Type Ia SNe, according to which the light output is
+predominantly attributable to the decay of radioactive elements, would require
+very high nickel masses, implying ejecta masses beyond the Chandrasekhar mass -
+hence their other name, "Super-Chandrasekhar" explosions.
+
+We have investigated one potential scenario for explaining such objects, namely
+invoking interaction between ejecta and circumstellar material (CSM). In
+particular, we studied the consequences of fairly normal SNe Ia exploding
+within compact and dense carbon-oxygen-rich CSM envelopes. Performing sophisticated
+radiation hydrodynamical simulations with the code STELLA, we demonstrated that
+a number of characteristic features of Super-Chandrasekhar objects can be
+reproduced by ejecta-CSM interaction. In particular, the ejecta kinematics seem
+to be compatible with observations and we find a good match in the overall shape of the
+computed optical light curve and SN 2009dc (a prototypical Super-Chandrasekhar
+SNe Ia). Nevertheless, achieving a significant optical luminosity boost is
+challenging in our calculations. The entire study is summarized in our [paper][Noebauer2016]
+which has just been accepted for publication in MNRAS.
+
+- - - 
+
+[Noebauer2016]: http://adsabs.harvard.edu/doi/10.1093/mnras/stw2197
