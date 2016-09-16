@@ -27,7 +27,11 @@ permalink: /cv/
   * __University Studies:__ _2005 - 2010_  
    Technical University Munich, Diploma in physics  
 
-### Teaching Experience
+### Teaching and Mentoring Experience
+
+  * __Google Summer of Code and Summer of Code in Space__: 2016  
+    TARDIS-SN collaboration  
+    _mentoring students and supervisings projects_
 
   * __Tutoring of Computational Physics I:__ 2011 - 2012  
    Technical University Munich  

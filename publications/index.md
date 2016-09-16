@@ -57,6 +57,9 @@ permalink: /publications/
 
 ### Conference Talks
 
+  * _Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for 'Super-Chandrasekhar' explosions?_  
+    @__"Supernovae: The Outliers"__, September 12 - 16, 2016, Garching  
+
   * _SNe Ia within dense C/O envelopes: A potential explanation for superluminous SNe Ia_  
     @__"18th Workshop on Nuclear Astrophysics"__, March 14 - 18, 2016, Ringberg Castle  
     ([conference page][ringberg2016])
