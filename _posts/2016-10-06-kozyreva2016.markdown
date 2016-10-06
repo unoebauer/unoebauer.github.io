@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Fast evolving pair-instability supernova models: evolution, explosion, light curves (MNRAS paper)"
+date:   2016-10-06 16:34:00 +0100
+categories: jekyll update
+tag: [publications, stella, mcrh, supernova]
+---
+
+As part of a collaboration lead by Alexandra Kozyreva and Raphael Hirschi, fast
+evolving PISNe were investigated.  See a preprint of the upcoming paper on the
+[arXiv][Kozyreva2016].
+
+- - - 
+
+[Kozyreva2016]: https://arxiv.org/abs/1610.01086
