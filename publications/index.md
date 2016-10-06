@@ -28,6 +28,10 @@ permalink: /publications/
 
 ### Peer-reviewed co-author publications
 
+  * _Fast evolving pair-instability supernova models: evolution, explosion, light curves_  
+     Kozyreva, A., Gilmer, M., Hirschi, R., Frohlich, C., Blinnikov, Sergey., Wollaeger, R T., __Noebauer, U. M.__; van Rossum, D. R., Heger, A., Even, W. P., Waldman, R., Tolstov, A., Chatzopoulos, E., Sorokina, E.  
+     Accepted for publication in Monthly Notices of the Royal Astronomical Society (2016)  
+     ([ads link][kozyreva2016ads], [arXiv link][kozyreva2016arxiv])
   * _The supernova impostor PSN J09132750+7627410 and its progenitor_  
     Tartaglia, L., Elias-Rosa, N., Pastorello, A., Benetti, S., Taubenberger, S., Cappellaro, E., Cortini, G., Granata, V., Ishida, E. E. O., Morales-Garoffolo, A., __Noebauer, U. M.__, Ochner, P., Tomasella, L., Zaggia, S.  
     The Astrophysical Journal Letters, Volume 823, Issue 2, L23 (2016)  
@@ -115,3 +119,5 @@ permalink: /publications/
 [agmeeting2014]: http://www.astro.physik.uni-potsdam.de/~htodt/ag2014/
 [tartaglia2016ads]: http://adsabs.harvard.edu/abs/2016ApJ...823L..23T
 [tartaglia2016journal]:  http://iopscience.iop.org/article/10.3847/2041-8205/823/2/L23/meta;jsessionid=E769CA023BB291D303AAC7143F5694E5.c2.iopscience.cld.iop.org 
+[kozyreva2016ads]: http://adsabs.harvard.edu/abs/2016arXiv161001086K
+[kozyreva2016arxiv]: https://arxiv.org/abs/1610.01086
