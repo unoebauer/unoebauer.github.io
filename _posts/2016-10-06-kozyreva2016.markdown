@@ -10,6 +10,11 @@ As part of a collaboration lead by Alexandra Kozyreva and Raphael Hirschi, fast
 evolving PISNe were investigated.  See a preprint of the upcoming paper on the
 [arXiv][Kozyreva2016].
 
+## Update
+
+The paper is now available on the [early access][Kozyreva2016mnras] system of MNRAS
+
 - - - 
 
 [Kozyreva2016]: https://arxiv.org/abs/1610.01086
+[Kozyreva2016mnras]: http://mnras.oxfordjournals.org/content/early/2016/10/06/mnras.stw2562.abstract?keytype=ref&ijkey=UczdedzcAN1Sgwn
