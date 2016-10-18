@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Fast evolving pair-instability supernova models: evolution, explosion, light curves (MNRAS paper)"
+date:   2016-10-06 16:34:00 +0100
+categories: jekyll update
+tag: [publications, stella, mcrh, supernova]
+---
+
+As part of a collaboration lead by Alexandra Kozyreva and Raphael Hirschi, I
+have contributed to the study of pair-instability supernovae (PISNe) models for
+high-mass stars at relatively high metallicity. According to our stellar
+evolution calculations, these models do not retain any hydrogen in the outer
+layers at the point of explosion. Using detailed radiative transfer
+calculations, we determined synthetic observables for pair-instability
+supernovae occurring in such stars and found that their light curves are
+relatively fast evolving. Thus, such events may be suitable candidates to
+explain some superluminous supernovae. Additionally, an important part of this
+study was the investigation associated with the light curve modelling. Here, we
+focussed mainly on the consequences of using different radiative transfer
+tools, relying on different opacity prescriptions and including the so-called
+nickel-bubble effect. Our results are summarized in a paper which has just been
+accepted for publication in MNRAS. A preprint may be found on the
+[arXiv][Kozyreva2016] or on the [early access][Kozyreva2016mnras] system of
+MNRAS.
+
+- - - 
+
+[Kozyreva2016]: https://arxiv.org/abs/1610.01086
+[Kozyreva2016mnras]: http://mnras.oxfordjournals.org/content/early/2016/10/06/mnras.stw2562.abstract?keytype=ref&ijkey=UczdedzcAN1Sgwn

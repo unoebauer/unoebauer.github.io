@@ -27,5 +27,4 @@ challenging in our calculations. The entire study is summarized in our [paper][N
 which has just been accepted for publication in MNRAS.
 
 - - - 
-
-[Noebauer2016]: http://adsabs.harvard.edu/doi/10.1093/mnras/stw2197
+[Noebauer2016]: http://mnras.oxfordjournals.org/content/463/3/2972
