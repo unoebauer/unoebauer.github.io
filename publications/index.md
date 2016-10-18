@@ -8,7 +8,7 @@ permalink: /publications/
 
   * _Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for `Super-Chandrasekhar' explosions?_  
     __Noebauer, U. M.__, Taubenberger, S., Blinnikov, S., Sorokina, E., Hillebrandt, W.  
-    Monthly Notices of the Royal Astronomical Society, Advance Access (2016)  
+    Monthly Notices of the Royal Astronomical Society, Volume 463, Issue 3, pp. 2972-2985 (2016)  
     ([ads link][noebauer2016ads], [journal link][noebauer2016journal])
 
   * _Self-consistent modelling of line-driven hot-star winds with Monte Carlo radiation hydrodynamics_  
@@ -105,7 +105,7 @@ permalink: /publications/
 [noebauer2015ads]: http://adsabs.harvard.edu/abs/2015MNRAS.453.3120N
 [noebauer2015journal]: http://mnras.oxfordjournals.org/content/453/3/3120
 [noebauer2016ads]: http://adsabs.harvard.edu/doi/10.1093/mnras/stw2197
-[noebauer2016journal]: http://mnras.oxfordjournals.org/content/early/2016/09/02/mnras.stw2197
+[noebauer2016journal]: http://mnras.oxfordjournals.org/content/463/3/2972
 [pastorello2015aads]: http://adsabs.harvard.edu/abs/2015MNRAS.453.3649P
 [pastorello2015ajournal]: http://mnras.oxfordjournals.org/content/453/4/3649
 [pastorello2015bads]: http://adsabs.harvard.edu/abs/2015MNRAS.454.4293P
