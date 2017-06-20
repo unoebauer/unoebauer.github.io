@@ -6,6 +6,11 @@ permalink: /publications/
 
 ### Peer-reviewed first-author publications
 
+  * _Early light curves for Type Ia supernova explosion models_  
+    __Noebauer, U. M.__, Kromer M., Taubenberger S., Baklanov P., Blinnikov S., Sorokina E., Hillebrandt W.  
+    _submitted to Monthly Notices of the Royal Astronomical Society_  
+    ([arXiv link][noebauer2017arxiv])
+
   * _Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for `Super-Chandrasekhar' explosions?_  
     __Noebauer, U. M.__, Taubenberger, S., Blinnikov, S., Sorokina, E., Hillebrandt, W.  
     Monthly Notices of the Royal Astronomical Society, Volume 463, Issue 3, pp. 2972-2985 (2016)  
@@ -106,6 +111,7 @@ permalink: /publications/
 [noebauer2015journal]: http://mnras.oxfordjournals.org/content/453/3/3120
 [noebauer2016ads]: http://adsabs.harvard.edu/doi/10.1093/mnras/stw2197
 [noebauer2016journal]: http://mnras.oxfordjournals.org/content/463/3/2972
+[noebauer2017arxiv]: https://arxiv.org/abs/1706.03613
 [pastorello2015aads]: http://adsabs.harvard.edu/abs/2015MNRAS.453.3649P
 [pastorello2015ajournal]: http://mnras.oxfordjournals.org/content/453/4/3649
 [pastorello2015bads]: http://adsabs.harvard.edu/abs/2015MNRAS.454.4293P

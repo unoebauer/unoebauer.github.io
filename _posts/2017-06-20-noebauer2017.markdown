@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Early light curves for Type Ia supernova explosion models (paper submitted to MNRAS)"
+date:   2017-06-13 13:40:00 +0100
+categories: jekyll update
+tag: [publications, stella, supernova]
+---
+
+Upcoming high-cadence transient survey programs will produce a wealth of
+observational data for Type Ia supernovae. These data sets will contain
+numerous events detected very early in their evolution, shortly after
+explosion. We have calculated synthetic light curves with the radiation
+hydrodynamical approach STELLA for a number of different explosion models,
+specifically focussing on these first few days after explosion. The paper
+summarizing our results has been submitted to MNRAS and a preprint version can
+be found on the [arXiv][Noebauer2017]. 
+
+With our calculations, we show that overall the early light curve evolution is
+similar for most of the investigated models. Characteristic imprints are
+induced by radioactive material located close to the surface. However, these
+are very similar to the signatures expected from ejecta-CSM or ejecta-companion
+interaction. Apart from the pure deflagration explosion models, none of our
+synthetic light curves exhibit the commonly assumed power-law rise. We
+demonstrate that this can lead to substantial errors in the determination of
+the time of explosion. In summary, we illustrate with our calculations that
+even with very early data an identification of specific explosion scenarios is
+challenging, if only photometric observations are available. 
+
+- - - 
+
+[Noebauer2017]: https://arxiv.org/abs/1610.01086
