@@ -28,4 +28,4 @@ challenging, if only photometric observations are available.
 
 - - - 
 
-[Noebauer2017]: https://arxiv.org/abs/1610.01086
+[Noebauer2017]: https://arxiv.org/abs/1706.03613
