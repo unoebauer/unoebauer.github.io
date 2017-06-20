@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Early light curves for Type Ia supernova explosion models (paper submitted to MNRAS)"
-date:   2017-06-20 13:40:00 +0100
+date:   2017-06-13 13:40:00 +0100
 categories: jekyll update
 tag: [publications, stella, supernova]
 ---
