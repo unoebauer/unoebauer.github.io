@@ -29,11 +29,11 @@ permalink: /cv/
 
 ### Teaching and Mentoring Experience
 
-  * __Google Summer of Code__: 2016, 2017  
-    [TARDIS-SN][tardis] collaboration  
+  * __Google Summer of Code__: [2016][gsoc2016], [2017][gsoc2017]   
+    [TARDIS-SN][tardis] collaboration (2017 part of the [Python Software Foundation][psf])  
     _mentoring students and supervisings projects_
 
-  * __ESA Summer of Code in Code in Space__: 2016  
+  * __ESA Summer of Code in Code in Space__: [2016][socis2016]  
     [TARDIS-SN][tardis] collaboration  
     _mentoring students and supervisings projects_
 
@@ -59,4 +59,8 @@ permalink: /cv/
 [b15]: http://darkuniverse.uni-hd.de/view/Main/ProjectB15
 [tr33]: http://darkuniverse.uni-hd.de/view/Main/WebHome 
 [tardis]: https://github.com/tardis-sn/tardis
+[psf]: http://python-gsoc.org/2017/#ideas
+[gsoc2016]: https://summerofcode.withgoogle.com/archive/2016/organizations/
+[gsoc2017]: https://summerofcode.withgoogle.com/organizations/?sp-page=2
+[socis2016]: http://www.esa.int/Our_Activities/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space
 

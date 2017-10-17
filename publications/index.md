@@ -8,7 +8,7 @@ permalink: /publications/
 
   * _Early light curves for Type Ia supernova explosion models_  
     __Noebauer, U. M.__, Kromer M., Taubenberger S., Baklanov P., Blinnikov S., Sorokina E., Hillebrandt W.  
-    Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 3, pp. 2787-2799 (2017)
+    Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 3, pp. 2787-2799 (2017)  
     ([ads link][noebauer2017ads], [journal link][noebauer2017journal])
 
   * _Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for `Super-Chandrasekhar' explosions?_  
