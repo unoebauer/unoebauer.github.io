@@ -12,7 +12,7 @@ permalink: /cv/
 
   * __Doctoral Studies:__ _2011 - 2014_  
    Technical University Munich, Max Planck Institute for Astrophysics  
-   "Radiation Hydrodynamics in Astrophysical Environments"
+  "A Monte Carlo Approach to Radiation Hydrodynamics in Stellar Outflows"
 
   * __Internship:__ _2009 - 2010_  
    Space Telescope Science Institute, Baltimore  
