@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Early light curves for Type Ia supernova explosion models (paper submitted to MNRAS)"
+title:  "Early light curves for Type Ia supernova explosion models (MNRAS paper and MPA research highlight)"
 date:   2017-06-13 13:40:00 +0100
 categories: jekyll update
 tag: [publications, stella, supernova]
@@ -11,9 +11,10 @@ observational data for Type Ia supernovae. These data sets will contain
 numerous events detected very early in their evolution, shortly after
 explosion. We have calculated synthetic light curves with the radiation
 hydrodynamical approach STELLA for a number of different explosion models,
-specifically focussing on these first few days after explosion. The paper
-summarizing our results has been submitted to MNRAS and a preprint version can
-be found on the [arXiv][Noebauer2017]. 
+specifically focussing on these first few days after explosion. Our research
+has been [published][Noebauer2017mnras] in Monthly Notices of the Royal
+Astronomical Society and is highlighted on the [webpage][Noebauer2017mpa] of
+MPA.
 
 With our calculations, we show that overall the early light curve evolution is
 similar for most of the investigated models. Characteristic imprints are
@@ -24,8 +25,9 @@ synthetic light curves exhibit the commonly assumed power-law rise. We
 demonstrate that this can lead to substantial errors in the determination of
 the time of explosion. In summary, we illustrate with our calculations that
 even with very early data an identification of specific explosion scenarios is
-challenging, if only photometric observations are available. 
+challenging, if only photometric observations are available.
 
 - - - 
 
-[Noebauer2017]: https://arxiv.org/abs/1706.03613
+[Noebauer2017mnras]: https://academic.oup.com/mnras/article-abstract/472/3/2787/4082243/Early-light-curves-for-Type-Ia-supernova-explosion?redirectedFrom=fulltext
+[Noebauer2017mpa]: http://www.mpa-garching.mpg.de/479073/hl201710
