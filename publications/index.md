@@ -8,8 +8,8 @@ permalink: /publications/
 
   * _Early light curves for Type Ia supernova explosion models_  
     __Noebauer, U. M.__, Kromer M., Taubenberger S., Baklanov P., Blinnikov S., Sorokina E., Hillebrandt W.  
-    _submitted to Monthly Notices of the Royal Astronomical Society_  
-    ([arXiv link][noebauer2017arxiv])
+    Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 3, pp. 2787-2799 (2017)
+    ([ads link][noebauer2017ads], [journal link][noebauer2017journal])
 
   * _Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for `Super-Chandrasekhar' explosions?_  
     __Noebauer, U. M.__, Taubenberger, S., Blinnikov, S., Sorokina, E., Hillebrandt, W.  
@@ -112,6 +112,8 @@ permalink: /publications/
 [noebauer2016ads]: http://adsabs.harvard.edu/doi/10.1093/mnras/stw2197
 [noebauer2016journal]: http://mnras.oxfordjournals.org/content/463/3/2972
 [noebauer2017arxiv]: https://arxiv.org/abs/1706.03613
+[noebauer2017ads]: http://adsabs.harvard.edu/abs/2017MNRAS.472.2787N
+[noebauer2017journal]: https://academic.oup.com/mnras/article-abstract/472/3/2787/4082243/Early-light-curves-for-Type-Ia-supernova-explosion?redirectedFrom=fulltext
 [pastorello2015aads]: http://adsabs.harvard.edu/abs/2015MNRAS.453.3649P
 [pastorello2015ajournal]: http://mnras.oxfordjournals.org/content/453/4/3649
 [pastorello2015bads]: http://adsabs.harvard.edu/abs/2015MNRAS.454.4293P
