@@ -29,8 +29,12 @@ permalink: /cv/
 
 ### Teaching and Mentoring Experience
 
-  * __Google Summer of Code and Summer of Code in Space__: 2016  
-    TARDIS-SN collaboration  
+  * __Google Summer of Code__: 2016, 2017  
+    [TARDIS-SN][tardis] collaboration  
+    _mentoring students and supervisings projects_
+
+  * __ESA Summer of Code in Code in Space__: 2016  
+    [TARDIS-SN][tardis] collaboration  
     _mentoring students and supervisings projects_
 
   * __Tutoring of Computational Physics I:__ 2011 - 2012  
