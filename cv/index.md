@@ -45,7 +45,10 @@ permalink: /cv/
    Technical University Munich  
    _lecturing and supervising tutorials_
 
-### Public Outreach Activities
+### Public Outreach and Other Activities
+
+  * __MPA Postdoc Representative:__ 2016 - 2017  
+   Max Planck Institute for Astrophysics  
 
   * __MPA Open House Day:__ 2013, 2011  
    Max Planck Institute for Astrophysics  
