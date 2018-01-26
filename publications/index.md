@@ -55,6 +55,9 @@ permalink: /publications/
 
 ### Seminar Talks
 
+  * _Rise and Shine: Type Ia Supernovae at early times_  
+    __Seminar Talk__, January 22, 2018, Max Planck Institute for Astrophysics, Garching  
+
   * _SNe Ia within dense C/O envelopes: Potential explanation for superluminous SNe Ia_  
     __Seminar Talk__, June 16, 2016, Oskar Klein Centre, Stockholm  
 
