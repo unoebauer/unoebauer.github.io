@@ -25,9 +25,12 @@ synthetic light curves exhibit the commonly assumed power-law rise. We
 demonstrate that this can lead to substantial errors in the determination of
 the time of explosion. In summary, we illustrate with our calculations that
 even with very early data an identification of specific explosion scenarios is
-challenging, if only photometric observations are available.
+challenging, if only photometric observations are available. The synthetic
+light curves are publicly available on the 
+[Heidelberg Supernova Model Archive (HeSMA)][hesma].
 
 - - - 
 
 [Noebauer2017mnras]: https://academic.oup.com/mnras/article-abstract/472/3/2787/4082243/Early-light-curves-for-Type-Ia-supernova-explosion?redirectedFrom=fulltext
 [Noebauer2017mpa]: http://www.mpa-garching.mpg.de/479073/hl201710
+[hesma]: https://hesma.h-its.org/
