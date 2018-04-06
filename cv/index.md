@@ -4,6 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
+### Professional Profiles
+
+  * __ORCID profile:__ [0000-0002-2453-853X][myorcid]  
+  * __Google Scholar profile:__ [Ulrich Noebauer][myscholar]  
+  * __linkedin profile:__ [ulrich-noebauer][mylinkedin]  
+  * __Github profile:__ [unoebauer][mygithub]  
+
 ### Research Experience
 
   * __Postdoctoral Researcher:__ _2014 - present_  
@@ -17,6 +24,12 @@ permalink: /cv/
   * __Internship:__ _2009 - 2010_  
    Space Telescope Science Institute, Baltimore  
    "The geometry and ionization structure of the mass outflow from eclipsing cataclysmic variables"
+
+### Training
+
+  * __Online Course:__ _2018_  
+    Standford Online, [Coursera][courseralink]  
+    "Machine Learning by Stanford University on Coursera" ([certificate][courseracertificate])
 
 ### Education
 
@@ -66,4 +79,9 @@ permalink: /cv/
 [gsoc2016]: https://summerofcode.withgoogle.com/archive/2016/organizations/
 [gsoc2017]: https://summerofcode.withgoogle.com/organizations/?sp-page=2
 [socis2016]: http://www.esa.int/Our_Activities/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space
-
+[mygithub]: https://github.com/unoebauer
+[myorcid]: https://orcid.org/0000-0002-2453-853X
+[myscholar]: https://scholar.google.de/citations?user=gB49C0sAAAAJ&hl=de
+[mylinkedin]: https://linkedin.com/in/ulrich-noebauer/
+[courseracertificate]: https://www.coursera.org/account/accomplishments/certificate/8B84SLD8TJZD
+[courseralink]: https://www.coursera.org/
