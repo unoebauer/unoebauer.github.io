@@ -8,46 +8,60 @@ permalink: /publications/
 
   * _Early light curves for Type Ia supernova explosion models_  
     __Noebauer, U. M.__, Kromer M., Taubenberger S., Baklanov P., Blinnikov S., Sorokina E., Hillebrandt W.  
-    Monthly Notices of the Royal Astronomical Society, Volume 472, Issue 3, pp. 2787-2799 (2017)  
+    Monthly Notices of the Royal Astronomical Society,   
+    Volume 472, Issue 3, pp. 2787-2799 (2017)  
     ([ads link][noebauer2017ads], [journal link][noebauer2017journal])
 
   * _Type Ia supernovae within dense carbon-oxygen rich envelopes: a model for `Super-Chandrasekhar' explosions?_  
     __Noebauer, U. M.__, Taubenberger, S., Blinnikov, S., Sorokina, E., Hillebrandt, W.  
-    Monthly Notices of the Royal Astronomical Society, Volume 463, Issue 3, pp. 2972-2985 (2016)  
+    Monthly Notices of the Royal Astronomical Society,   
+    Volume 463, Issue 3, pp. 2972-2985 (2016)  
     ([ads link][noebauer2016ads], [journal link][noebauer2016journal])
 
   * _Self-consistent modelling of line-driven hot-star winds with Monte Carlo radiation hydrodynamics_  
     __Noebauer, U. M.__, Sim, S. A.  
-    Monthly Notices of the Royal Astronomical Society, Volume 453, Issue 3, pp. 3120-3134 (2015)  
+    Monthly Notices of the Royal Astronomical Society,   
+    Volume 453, Issue 3, pp. 3120-3134 (2015)  
     ([ads link][noebauer2015ads], [journal link][noebauer2015journal])
 
   * _Monte Carlo radiation hydrodynamics: methods, tests and application to Type Ia supernova ejecta_  
     __Noebauer, U. M.__, Sim, S. A., Kromer, M., Röpke, F. K., Hillebrandt, W.  
-    Monthly Notices of the Royal Astronomical Society, Volume 425, Issue 2, pp. 1430-1444 (2012)  
+    Monthly Notices of the Royal Astronomical Society,   
+    Volume 425, Issue 2, pp. 1430-1444 (2012)  
     ([ads link][noebauer2012ads], [journal link][noebauer2012journal])
 
   * _The Geometry and Ionization Structure of the Wind in the Eclipsing Nova-like Variables RW Tri and UX UMa_  
     __Noebauer, U. M.__, Long, K., Sim, S. A., and Knigge, C.  
-    The Astrophysical Journal, Volume 719, Issue 2, pp. 1932-1945 (2010)  
+    The Astrophysical Journal,   
+    Volume 719, Issue 2, pp. 1932-1945 (2010)  
     ([ads link][noebauer2010ads], [journal link][noebauer2010journal])
 
 ### Peer-reviewed co-author publications
 
+  * _OGLE14-073 - a promising pair-instability supernova candidate_  
+     Kozyreva, A., Kromer, M., __Noebauer, U. M.__, Hirschi, R.  
+     Monthly Notices of the Royal Astronomical Society,  
+     accepted for publication  
+     ([ads link][kozyreva2018ads], [arXiv link][kozyreva2018arxiv])  
   * _Fast evolving pair-instability supernova models: evolution, explosion, light curves_  
-     Kozyreva, A., Gilmer, M., Hirschi, R., Frohlich, C., Blinnikov, Sergey., Wollaeger, R T., __Noebauer, U. M.__; van Rossum, D. R., Heger, A., Even, W. P., Waldman, R., Tolstov, A., Chatzopoulos, E., Sorokina, E.  
-     Monthly Notices of the Royal Astronomical Society, Advance Access (2016)  
+     Kozyreva, A., Gilmer, M., Hirschi, R., Frohlich, C., Blinnikov, S., Wollaeger, R T., __Noebauer, U. M.__; van Rossum, D. R., Heger, A., Even, W. P., Waldman, R., Tolstov, A., Chatzopoulos, E., Sorokina, E.  
+     Monthly Notices of the Royal Astronomical Society,  
+     Volume 464, Issue 3, pp. 2854-2865 (2017)   
      ([ads link][kozyreva2016ads], [journal link][kozyreva2016journal], [arXiv link][kozyreva2016arxiv])
   * _The supernova impostor PSN J09132750+7627410 and its progenitor_  
     Tartaglia, L., Elias-Rosa, N., Pastorello, A., Benetti, S., Taubenberger, S., Cappellaro, E., Cortini, G., Granata, V., Ishida, E. E. O., Morales-Garoffolo, A., __Noebauer, U. M.__, Ochner, P., Tomasella, L., Zaggia, S.  
-    The Astrophysical Journal Letters, Volume 823, Issue 2, L23 (2016)  
+    The Astrophysical Journal Letters,   
+    Volume 823, Issue 2, L23 (2016)  
     ([ads link][tartaglia2016ads], [journal link][tartaglia2016journal])  
   * _Massive stars exploding in a He-rich circumstellar medium - VIII. PSN J07285387+3349106, a highly reddened supernova Ibn_  
     Pastorello, A., Tartaglia, L., Elias-Rosa, N., Morales-Garoffolo, A., Terreran, G., Taubenberger, S., __Noebauer, U. M.__, Benetti, S., Cappellaro, E., Ciabattari, F., Dennefeld, M., Dimai, A., Ishida, E. E. O., Harutyunyan, A., Leonini, S., Ochner, P., Sollerman, J., Taddia, F., Zaggia, S.  
-    Monthly Notices of the Royal Astronomical Society, Volume 454, Issue 4, pp. 4293-4303 (2015)   
+    Monthly Notices of the Royal Astronomical Society,  
+    Volume 454, Issue 4, pp. 4293-4303 (2015)   
     ([ads link][pastorello2015bads], [journal link][pastorello2015bjournal])  
   * _Massive stars exploding in a He-rich circumstellar medium - VII. The metamorphosis of ASASSN-15ed from a narrow line Type Ibn to a normal Type Ib Supernova_  
     Pastorello, A., Prieto, J. L., Elias-Rosa, N., Bersier, D., Hosseinzadeh, G., Morales-Garoffolo, A., __Noebauer, U. M.__, Taubenberger, S., Tomasella, L., Kochanek, C. S., Falco, E., Basu, U., Beacom, J. F., Benetti, S., Brimacombe, J., Cappellaro, E., Danilet, A. B., Dong, Subo, Fernandez, J. M., Goss, N., Granata, V., Harutyunyan, A., Holoien, T. W.-S., Ishida, E. E. O., Kiyota, S., Krannich, G., Nicholls, B., Ochner, P., Pojmański, G., Shappee, B. J., Simonian, G. V., Stanek, K. Z., Starrfield, S., Szczygieł, D., Tartaglia, L., Terreran, G., Thompson, T. A., Turatto, M., Wagner, R. M., Wiethoff, W. S., Wilber, A., Woźniak, P. R.  
-    Monthly Notices of the Royal Astronomical Society, Volume 453, Issue 4, pp. 3649-3661 (2015)  
+    Monthly Notices of the Royal Astronomical Society,   
+    Volume 453, Issue 4, pp. 3649-3661 (2015)  
     ([ads link][pastorello2015aads], [journal link][pastorello2015ajournal])  
 
 
@@ -133,3 +147,5 @@ permalink: /publications/
 [kozyreva2016ads]: http://adsabs.harvard.edu/abs/2016arXiv161001086K
 [kozyreva2016arxiv]: https://arxiv.org/abs/1610.01086
 [kozyreva2016journal]: http://mnras.oxfordjournals.org/content/early/2016/10/06/mnras.stw2562.abstract?keytype=ref&ijkey=UczdedzcAN1Sgwn
+[kozyreva2018ads]: http://adsabs.harvard.edu/abs/2018arXiv180405791K
+[kozyreva2018arxiv]: https://arxiv.org/abs/1804.05791

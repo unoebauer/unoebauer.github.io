@@ -39,9 +39,13 @@
         <li>
           <a class="sidebar-nav-item" href="{{ site.baseurl }}/cv">CV</a>
         </li>
+        {% comment %}
+        <!-->
         <li>
           <a class="sidebar-nav-item" href="{{ site.baseurl }}/photography">Photography</a>
         </li>
+        <!-->
+        {% endcomment %}
         {% for tag_key in site.sidebar_tags %}
           {% assign tag = site.data.tags[tag_key] %}
           <li>
