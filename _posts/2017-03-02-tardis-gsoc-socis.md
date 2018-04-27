@@ -2,7 +2,6 @@
 layout: post
 title:  "Tardis participates in GSoC 2017"
 date:   2017-03-02 14:08:12 +0200
-categories: jekyll update
 tag: [tardis]
 ---
 

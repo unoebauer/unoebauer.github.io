@@ -2,8 +2,7 @@
 layout: post
 title:  "PhD thesis completed and defended"
 date:   2014-07-29 08:32:00 +0100
-categories: jekyll update
-tag: [mcrh,winds]
+tag: [mcrh, winds]
 ---
 
 I completed my PhD project at the Max Planck Institute for Astrophysics and
