@@ -22,18 +22,23 @@
 layout: base
 ---
 
-{% include post.html post=page link_title=false %}
+{% assign plugins = site.plugins | default:site.gems %}
 
-<hr class="dingbat related" />
+<article class="page" role="article">
+  {% assign author = site.data.authors[page.author] | default:site.data.authors.first[1] | default:site.author %}
 
-{% assign addons = site.hydejack.post_addons %}
-{% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
-{% for addon in addons %}
-  {% case addon %}
-  {% when 'about' %}
-     {% include about.html %}
-  {% when 'related' %}
-    {% include related-posts.html post=post %}
-  {% else %}
-  {% endcase %}
-{% endfor %}
+  {% if author.picture %}
+    {% include srcset-img.html class="avatar" img=author.picture alt=author.name %}
+  {% elsif plugins contains 'jekyll-avatar' %}
+    {% assign avatar = author.social.github | default:author.github.username | default:author.github %}
+    {% include avatar-tag.html user=avatar %}
+  {% endif %}
+
+  <h1 class="page-title hr">{{ page.title }}</h1>
+
+  {{ author.about | markdownify }}
+
+  {% include message.html text=page.description hide=page.hide_description alt="" %}
+
+  {{ content }}
+</article>

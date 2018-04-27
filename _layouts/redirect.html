@@ -22,18 +22,7 @@
 layout: base
 ---
 
-{% include post.html post=page link_title=false %}
-
-<hr class="dingbat related" />
-
-{% assign addons = site.hydejack.post_addons %}
-{% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
-{% for addon in addons %}
-  {% case addon %}
-  {% when 'about' %}
-     {% include about.html %}
-  {% when 'related' %}
-    {% include related-posts.html post=post %}
-  {% else %}
-  {% endcase %}
-{% endfor %}
+<div class="page">
+  <h1 class="page-title">{{ site.data.strings.redirecting | default:"Redirecting…" }}</h1>
+  <p class="lead"><a href="{{ page.redirect.to }}">{{ page.redirect.to }}</a></p>
+</div>
