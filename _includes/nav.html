@@ -1,0 +1,36 @@
+<span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
+<ul>
+  {% assign pages = site.pages | where: "menu", true %}
+  {% assign documents = site.documents | where: "menu", true %}
+  {% assign nodes = pages | concat: documents | sort: "order" %}
+     <li>
+       <a class="sidebar-nav-item" href="{{ site.baseurl }}/about/">About</a>
+     </li>
+     <li>
+       <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Research</a>
+     </li>
+     <li>
+       <a class="sidebar-nav-item" href="{{ site.baseurl }}/publications/">Publications</a>
+     </li>
+     <li>
+       <a class="sidebar-nav-item" href="{{ site.baseurl }}/cv/">CV</a>
+     </li>
+  {% for node in nodes %}
+    {% unless node.redirect_to %}
+      <li>
+        <a
+          {% if forloop.first %}id="_navigation"{% endif %}
+          href="{{ node.url | relative_url }}"
+          class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
+          {% if path.rel %}rel="{{ node.rel }}"{% endif %}
+          >
+          {{ node.title }}
+        </a>
+      </li>
+    {% else %}
+      <li>
+        <a href="{{ node.redirect_to }}" class="sidebar-nav-item external" >{{ node.title }}</a>
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>

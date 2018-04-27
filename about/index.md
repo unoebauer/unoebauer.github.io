@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 My name is Ulrich Noebauer and I am a postdoctoral researcher at the
@@ -9,7 +8,7 @@ My name is Ulrich Noebauer and I am a postdoctoral researcher at the
 [research group][stellhyd] of [Wolfgang Hillebrandt][wfh] as part of the
 Transregional Collaborative Research Centre [TRR 33][tr33], "The Dark Universe".
 
-<img src="me.jpg" alt="Me" />
+![ME]({{ "/assets/img/me.jpg" | absolute_url }})
 
 ### Current Research: Supernovae
 
@@ -31,8 +30,8 @@ notably with Talytha Barbosa, [Sergei Blinnikov][sergei], [Wolfgang
 Kerzendorf][kerzen], [Markus Kromer][kromer], [Friedrich Roepke][fritz],
 [Stuart Sim][sim], Stefan Taubenberger and Christian Vogl. I also frequently
 collaborate with [Alexandra Kozyreva][kozyreva] and [Raphael Hirschi][hirschi]
-to study the pair instability supernovae mechanism which is proposed for the
-powerful stellar explosions that end the life of very massive stars.
+to study the pair instability supernovae mechanism, a potential scenario to
+explain the most powerful stellar explosions.
 
 ### Past Research: Radiation Hydrodynamics and Cataclysmic Variables
 
