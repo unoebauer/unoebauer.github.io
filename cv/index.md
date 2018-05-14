@@ -31,7 +31,7 @@ title: CV
     "Statistical Learning" ([certificate][statlearncertificate])
 
   * __Online Course:__ _2018_  
-    Standford Online, [Coursera][courseralink]  
+    Stanford Online, [Coursera][courseralink]  
     "Machine Learning by Stanford University on Coursera" ([certificate][courseracertificate])
 
 ### Education
