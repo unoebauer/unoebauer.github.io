@@ -27,6 +27,10 @@ title: CV
 ### Training
 
   * __Online Course:__ _2018_  
+    [Stanford Online][stanfordlink]  
+    "Statistical Learning" ([certificate][statlearncertificate])
+
+  * __Online Course:__ _2018_  
     Standford Online, [Coursera][courseralink]  
     "Machine Learning by Stanford University on Coursera" ([certificate][courseracertificate])
 
@@ -84,3 +88,5 @@ title: CV
 [mylinkedin]: https://linkedin.com/in/ulrich-noebauer/
 [courseracertificate]: https://www.coursera.org/account/accomplishments/certificate/8B84SLD8TJZD
 [courseralink]: https://www.coursera.org/
+[statlearncertificate]: https://prod-cert-bucket.s3.amazonaws.com/downloads/5ac9c48254ad4972bcbb623f14349359/Statement.pdf
+[stanfordlink]: https://lagunita.stanford.edu/
