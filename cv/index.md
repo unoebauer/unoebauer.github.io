@@ -70,7 +70,7 @@ title: CV
    Max Planck Institute for Astrophysics  
    _Explanation of Scientific Posters, Supervision of physics experiments in the kids corner and co-managing the sun-spot observations_
 
-  * __MPA Planetarium Team:__ 2013 - 2014
+  * __MPA Planetarium Team:__ 2013 - 2014  
   Max Planck Institute for Astrophysics  
   _Involved in developing the Planetarium show and in presenting the program during school visits_
 
