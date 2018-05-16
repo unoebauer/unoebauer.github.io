@@ -12,35 +12,35 @@ title: CV
 
 ### Research Experience
 
-  * __Postdoctoral Researcher:__ _2014 - present_  
+  * __Postdoctoral Researcher:__ _07/2014 - present_  
    Max Planck Institute for Astrophysics  
    Involved in Project [B15][b15] - "Mapping out the Hubble Flow with Supernovae" - of the TransRegio [TR33][tr33] - "The Dark Universe"
 
-  * __Doctoral Studies:__ _2011 - 2014_  
+  * __Doctoral Studies:__ _04/2011 - 07/2014_  
    Technical University Munich, Max Planck Institute for Astrophysics  
   "A Monte Carlo Approach to Radiation Hydrodynamics in Stellar Outflows"
 
-  * __Internship:__ _2009 - 2010_  
+  * __Internship:__ _09/2009 - 01/2010_  
    Space Telescope Science Institute, Baltimore  
    "The geometry and ionization structure of the mass outflow from eclipsing cataclysmic variables"
 
 ### Training
 
-  * __Online Course:__ _2018_  
+  * __Online Course:__ _05/2018_  
     [Stanford Online][stanfordlink]  
     "Statistical Learning" ([certificate][statlearncertificate])
 
-  * __Online Course:__ _2018_  
+  * __Online Course:__ _03/2018_  
     Stanford Online, [Coursera][courseralink]  
     "Machine Learning by Stanford University on Coursera" ([certificate][courseracertificate])
 
 ### Education
 
-  * __Diploma Thesis:__ _2010_  
+  * __Diploma Thesis:__ _02/2010 - 03/2011_  
    Technical University Munich, Max Planck Institute for Astrophysics  
    "Monte Carlo Radiation Hydrodynamics"
 
-  * __University Studies:__ _2005 - 2010_  
+  * __University Studies:__ _10/2005 - 03/2011_  
    Technical University Munich, Diploma in physics  
 
 ### Teaching and Mentoring Experience
@@ -53,24 +53,24 @@ title: CV
     [TARDIS-SN][tardis] collaboration  
     _mentoring students and supervisings projects_
 
-  * __Tutoring of Computational Physics I:__ 2011 - 2012  
+  * __Tutoring of Computational Physics I:__ 10/2011 - 03/2012  
    Technical University Munich  
    _lecturing and supervising tutorials_
 
-  * __Tutoring of undergraduate Quantum Mechanics summer course:__ 2008  
+  * __Tutoring of undergraduate Quantum Mechanics summer course:__ 07/2008 - 08/2008   
    Technical University Munich  
    _lecturing and supervising tutorials_
 
 ### Public Outreach and Other Activities
 
-  * __MPA Postdoc Representative:__ 2016 - 2017  
+  * __MPA Postdoc Representative:__ 04/2016 - 09/2017  
    Max Planck Institute for Astrophysics  
 
-  * __MPA Open House Day:__ 2013, 2011  
+  * __MPA Open House Day:__ 10/2017, 10/2013, 10/2011  
    Max Planck Institute for Astrophysics  
    _Explanation of Scientific Posters, Supervision of physics experiments in the kids corner and co-managing the sun-spot observations_
 
-  * __MPA Planetarium Team:__ 2013 - 2014
+  * __MPA Planetarium Team:__ 2013 - 2014  
   Max Planck Institute for Astrophysics  
   _Involved in developing the Planetarium show and in presenting the program during school visits_
 
