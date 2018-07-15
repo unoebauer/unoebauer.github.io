@@ -34,6 +34,12 @@ title: CV
     Stanford Online, [Coursera][courseralink]  
     "Machine Learning by Stanford University on Coursera" ([certificate][courseracertificate])
 
+### Open-Source Involvement 
+
+  * __TARDIS:__ _04/2014 - present_  
+    Core-Developer and Maintainer of [TARDIS][tardis], a open-source Monte
+    Carlo radiative transfer code for spectral synthesis in supernovae ([latest version und bibliographic record][tardis_zenodo])  
+
 ### Education
 
   * __Diploma Thesis:__ _02/2010 - 03/2011_  
@@ -78,6 +84,7 @@ title: CV
 [b15]: http://darkuniverse.uni-hd.de/view/Main/ProjectB15
 [tr33]: http://darkuniverse.uni-hd.de/view/Main/WebHome 
 [tardis]: https://github.com/tardis-sn/tardis
+[tardis_zenodo]: https://doi.org/10.5281/zenodo.592480
 [psf]: http://python-gsoc.org/2017/#ideas
 [gsoc2016]: https://summerofcode.withgoogle.com/archive/2016/organizations/
 [gsoc2017]: https://summerofcode.withgoogle.com/organizations/?sp-page=2

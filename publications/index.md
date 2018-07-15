@@ -39,9 +39,8 @@ title: Publications
 
   * _OGLE14-073 - a promising pair-instability supernova candidate_  
      Kozyreva, A., Kromer, M., __Noebauer, U. M.__, Hirschi, R.  
-     Monthly Notices of the Royal Astronomical Society,  
-     accepted for publication  
-     ([ads link][kozyreva2018ads], [arXiv link][kozyreva2018arxiv])  
+     Monthly Notices of the Royal Astronomical Society, Advance Access
+     ([ads link][kozyreva2018ads], [journal link][kozyreva2018journal], [arXiv link][kozyreva2018arxiv])  
   * _Fast evolving pair-instability supernova models: evolution, explosion, light curves_  
      Kozyreva, A., Gilmer, M., Hirschi, R., Frohlich, C., Blinnikov, S., Wollaeger, R T., __Noebauer, U. M.__; van Rossum, D. R., Heger, A., Even, W. P., Waldman, R., Tolstov, A., Chatzopoulos, E., Sorokina, E.  
      Monthly Notices of the Royal Astronomical Society,  
@@ -62,6 +61,13 @@ title: Publications
     Monthly Notices of the Royal Astronomical Society,   
     Volume 453, Issue 4, pp. 3649-3661 (2015)  
     ([ads link][pastorello2015aads], [journal link][pastorello2015ajournal])  
+
+
+## Open Access Software
+
+   * _tardis-sn/tardis: TARDIS v2.0.2 release_  
+     Kerzendorf, Wolfgang; __Nöbauer, Ulrich__; Sim, Stuart; Lietzau, Stefan; Jančauskas, Vytautas; Vogl, Christian; Mishin, Mikhail; Tsamis, Fotis; Boyle, Aoife; Gupta, Vaibhav; Desai, Karan; Klauser, Michael; Beaujean, Frederik; Suban-Loewen, Adam; Heringer, Epson; Shingles, Luke; Barna, Barnabas; Gautam, Gaurav; Patel, Maryam; Barbosa, Talytha; Varanasi, Kaushik; Reinecke, Martin; Bylund, Tomas; Bentil, Laud; Rajagopalan, Srinath; Jain, Rinkle; Singh, Sourav; Talegaonkar, Chinmay; Sofiatti, Caroline; Patel, Pratik; Yap, Kevin; Wahi, Ujjwal; Gupta, Suyash  
+     ([DOI][])
 
 
 ## Talks and Posters
@@ -119,6 +125,7 @@ title: Publications
     ([conference page][garching2012])
 
 
+[tardis_doi]: https://doi.org/10.5281/zenodo.592480
 [noebauer2010ads]: http://adsabs.harvard.edu/abs/2010ApJ...719.1932N
 [noebauer2010journal]: http://iopscience.iop.org/0004-637X/719/2/1932/
 [noebauer2012ads]: http://adsabs.harvard.edu/abs/2012MNRAS.425.1430N
@@ -148,3 +155,4 @@ title: Publications
 [kozyreva2016journal]: http://mnras.oxfordjournals.org/content/early/2016/10/06/mnras.stw2562.abstract?keytype=ref&ijkey=UczdedzcAN1Sgwn
 [kozyreva2018ads]: http://adsabs.harvard.edu/abs/2018arXiv180405791K
 [kozyreva2018arxiv]: https://arxiv.org/abs/1804.05791
+[kozyreva2018journal]: https://academic.oup.com/mnras/article-abstract/479/3/3106/4996805?redirectedFrom=fulltext
