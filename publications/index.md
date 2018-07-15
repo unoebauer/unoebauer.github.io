@@ -67,7 +67,7 @@ title: Publications
 
    * _tardis-sn/tardis: TARDIS v2.0.2 release_  
      Kerzendorf, Wolfgang; __Nöbauer, Ulrich__; Sim, Stuart; Lietzau, Stefan; Jančauskas, Vytautas; Vogl, Christian; Mishin, Mikhail; Tsamis, Fotis; Boyle, Aoife; Gupta, Vaibhav; Desai, Karan; Klauser, Michael; Beaujean, Frederik; Suban-Loewen, Adam; Heringer, Epson; Shingles, Luke; Barna, Barnabas; Gautam, Gaurav; Patel, Maryam; Barbosa, Talytha; Varanasi, Kaushik; Reinecke, Martin; Bylund, Tomas; Bentil, Laud; Rajagopalan, Srinath; Jain, Rinkle; Singh, Sourav; Talegaonkar, Chinmay; Sofiatti, Caroline; Patel, Pratik; Yap, Kevin; Wahi, Ujjwal; Gupta, Suyash  
-     ([DOI][])
+     ([DOI][tardis_doi])
 
 
 ## Talks and Posters
