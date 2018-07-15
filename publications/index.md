@@ -64,6 +64,13 @@ title: Publications
     ([ads link][pastorello2015aads], [journal link][pastorello2015ajournal])  
 
 
+## Open Access Software
+
+   * _tardis-sn/tardis: TARDIS v2.0.2 release_  
+     Kerzendorf, Wolfgang; __Nöbauer, Ulrich__; Sim, Stuart; Lietzau, Stefan; Jančauskas, Vytautas; Vogl, Christian; Mishin, Mikhail; Tsamis, Fotis; Boyle, Aoife; Gupta, Vaibhav; Desai, Karan; Klauser, Michael; Beaujean, Frederik; Suban-Loewen, Adam; Heringer, Epson; Shingles, Luke; Barna, Barnabas; Gautam, Gaurav; Patel, Maryam; Barbosa, Talytha; Varanasi, Kaushik; Reinecke, Martin; Bylund, Tomas; Bentil, Laud; Rajagopalan, Srinath; Jain, Rinkle; Singh, Sourav; Talegaonkar, Chinmay; Sofiatti, Caroline; Patel, Pratik; Yap, Kevin; Wahi, Ujjwal; Gupta, Suyash  
+     ([DOI][])
+
+
 ## Talks and Posters
 
 ### Seminar Talks
@@ -119,6 +126,7 @@ title: Publications
     ([conference page][garching2012])
 
 
+[tardis_doi]: https://doi.org/10.5281/zenodo.592480
 [noebauer2010ads]: http://adsabs.harvard.edu/abs/2010ApJ...719.1932N
 [noebauer2010journal]: http://iopscience.iop.org/0004-637X/719/2/1932/
 [noebauer2012ads]: http://adsabs.harvard.edu/abs/2012MNRAS.425.1430N
