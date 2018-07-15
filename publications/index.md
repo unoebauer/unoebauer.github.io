@@ -39,9 +39,8 @@ title: Publications
 
   * _OGLE14-073 - a promising pair-instability supernova candidate_  
      Kozyreva, A., Kromer, M., __Noebauer, U. M.__, Hirschi, R.  
-     Monthly Notices of the Royal Astronomical Society,  
-     accepted for publication  
-     ([ads link][kozyreva2018ads], [arXiv link][kozyreva2018arxiv])  
+     Monthly Notices of the Royal Astronomical Society, Advance Access
+     ([ads link][kozyreva2018ads], [journal link][kozyreva2018journal], [arXiv link][kozyreva2018arxiv])  
   * _Fast evolving pair-instability supernova models: evolution, explosion, light curves_  
      Kozyreva, A., Gilmer, M., Hirschi, R., Frohlich, C., Blinnikov, S., Wollaeger, R T., __Noebauer, U. M.__; van Rossum, D. R., Heger, A., Even, W. P., Waldman, R., Tolstov, A., Chatzopoulos, E., Sorokina, E.  
      Monthly Notices of the Royal Astronomical Society,  
@@ -156,3 +155,4 @@ title: Publications
 [kozyreva2016journal]: http://mnras.oxfordjournals.org/content/early/2016/10/06/mnras.stw2562.abstract?keytype=ref&ijkey=UczdedzcAN1Sgwn
 [kozyreva2018ads]: http://adsabs.harvard.edu/abs/2018arXiv180405791K
 [kozyreva2018arxiv]: https://arxiv.org/abs/1804.05791
+[kozyreva2018journal]: https://academic.oup.com/mnras/article-abstract/479/3/3106/4996805?redirectedFrom=fulltext
