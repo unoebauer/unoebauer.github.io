@@ -37,6 +37,11 @@ title: Publications
 
 ### Peer-reviewed co-author publications
 
+  * _Spectral modeling of type II supernovae. I. Dilution factors_  
+     Vogl, C., Sim, S. A., __Noebauer, U. M.__, Kerzendorf, W. E., 
+     Hillebrandt, W.  
+     accepted for publication in Astronomy & Astrophysics  
+     ([ads link][vogl2018ads], [arXiv link][vogl2018arxiv])
   * _OGLE14-073 - a promising pair-instability supernova candidate_  
      Kozyreva, A., Kromer, M., __Noebauer, U. M.__, Hirschi, R.  
      Monthly Notices of the Royal Astronomical Society, Advance Access
@@ -156,3 +161,5 @@ title: Publications
 [kozyreva2018ads]: http://adsabs.harvard.edu/abs/2018arXiv180405791K
 [kozyreva2018arxiv]: https://arxiv.org/abs/1804.05791
 [kozyreva2018journal]: https://academic.oup.com/mnras/article-abstract/479/3/3106/4996805?redirectedFrom=fulltext
+[vogl2018ads]: http://adsabs.harvard.edu/abs/2018arXiv181102543V
+[vogl2018arxiv]: https://arxiv.org/abs/1811.02543
